@@ -10,7 +10,7 @@
 
 <!-- text -->
 <div id="text">
-  <img src="./assets/images/Monstera_deliciosa.jpg" min-width="250px" max-width="250px" width="250px" align="right" style="border-radius:25%; margin-top:25px; margin-bottom:150px;" alt="Costela-de-adão">
+   [<img src="./assets/images/Monstera_deliciosa.jpg" min-width="250px" max-width="250px" width="250px" align="right" style="border-radius:25%; margin-top: 25px; margin-bottom: 150px" alt="Costela-de-adão"/>]()
   <p align="left">Lorem ipsum dolor sit amet. Aut quisquam harum ut vero veniam aut quia voluptatum est quis deserunt qui quia dolore. Ab nostrum doloribus qui iste architecto vel placeat saepe eos atque quae. Et molestias quia non iste ratione 33 inventore soluta 33 placeat consequatur eos ipsum exercitationem hic officia obcaecati. Et voluptatem ipsa qui atque rerum non voluptatum incidunt 33 delectus itaque id earum voluptatum vel dicta provident sed voluptatem blanditiis.
 
   Qui nobis corporis est sunt eaque sed soluta debitis. Qui porro cumque qui autem dolores aut autem natus aut tempora dolores. Aut eveniet quos non omnis illo ab fugit aspernatur est rerum Quis nam voluptatibus odit sit perspiciatis accusamus.
