@@ -5,6 +5,7 @@
 
 <div align="center" style="padding:25px; margin:50px;">
   <samp> estudante de engenharia da computação - buscadora de conhecimentos aleatórios - gamer </samp>
+  <br/>
 </div>
 
 <!-- text -->
