@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=75F76A&center=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Lizis;Seja+bem-vindo(a)!🌿">
 </div>
 
-<div align="center" style="padding:50px;">
+<div align="center" style="padding:25px; margin:50px;">
   <samp> estudante de engenharia da computação - buscadora de conhecimentos aleatórios - gamer </samp>
 </div>
 
@@ -19,7 +19,7 @@
 
 #
 <!-- Github info -->
-<div align="center" style="display:flex; gap:10px;">
+<div align="center" style="display:flex; gap:25px;">
   <br/>
   <img style="margin-left:50px;" src="https://github-readme-stats.vercel.app/api?username=lizis-bianca&theme=moltack&show_icons=true&hide=stars,issues&count_private=true&locale=pt-br&include_all_commits=true&hide_border=t&order=1&hide_title=false&hide_rank=false" height="150"/>
 
