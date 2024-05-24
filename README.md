@@ -1,15 +1,15 @@
 #
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=75F76A&random=false&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Lizis;Seja+bem-vindo(a)!🌿">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=75F76A&center=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Lizis;Seja+bem-vindo(a)!🌿">
 </div>
 
-<div align="center" style="padding: 10px">
+<div align="center" style="padding:50px;">
   <samp> estudante de engenharia da computação - buscadora de conhecimentos aleatórios - gamer </samp>
 </div>
 
 <!-- text -->
 <div id="text">
-  <img src="assets/images/Monstera_deliciosa.jpg" min-width="250px" m ax-width="250px" width="250px" align="right" style="border-radius: 50px; margin-top: 25px; margin-bottom: 150px" alt="Costela-de-adão">
+  <img src="assets/images/Monstera_deliciosa.jpg" min-width="250px" max-width="250px" width="250px" align="right" style="border-radius:50px; margin-top:25px; margin-bottom:150px;" alt="Costela-de-adão">
   <p align="left">Lorem ipsum dolor sit amet. Aut quisquam harum ut vero veniam aut quia voluptatum est quis deserunt qui quia dolore. Ab nostrum doloribus qui iste architecto vel placeat saepe eos atque quae. Et molestias quia non iste ratione 33 inventore soluta 33 placeat consequatur eos ipsum exercitationem hic officia obcaecati. Et voluptatem ipsa qui atque rerum non voluptatum incidunt 33 delectus itaque id earum voluptatum vel dicta provident sed voluptatem blanditiis.
 
   Qui nobis corporis est sunt eaque sed soluta debitis. Qui porro cumque qui autem dolores aut autem natus aut tempora dolores. Aut eveniet quos non omnis illo ab fugit aspernatur est rerum Quis nam voluptatibus odit sit perspiciatis accusamus.
@@ -19,9 +19,9 @@
 
 #
 <!-- Github info -->
-<div align="center" style="display: flex; gap: 10px">
+<div align="center" style="display:flex; gap:10px;">
   <br/>
-  <img style="margin-left: 50px" src="https://github-readme-stats.vercel.app/api?username=lizis-bianca&theme=moltack&show_icons=true&hide=stars,issues&count_private=true&locale=pt-br&include_all_commits=true&hide_border=t&order=1&hide_title=false&hide_rank=false" height="150"/>
+  <img style="margin-left:50px;" src="https://github-readme-stats.vercel.app/api?username=lizis-bianca&theme=moltack&show_icons=true&hide=stars,issues&count_private=true&locale=pt-br&include_all_commits=true&hide_border=t&order=1&hide_title=false&hide_rank=false" height="150"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizis-bianca&layout=compact&locale=pt-br&theme=gruvbox_light&hide_title=false&hide_border=false&order=2&card_width=320" height="150"/>
 </div>
