@@ -11,18 +11,44 @@
 <!-- text -->
 <div id="text">
   <img src="./assets/images/Monstera_deliciosa.png" min-width="250px" max-width="250px" width="250px" align="right" style="border-radius:25%; margin-top: 25px; margin-bottom: 150px" alt="Costela-de-adao">
-  <p align="left">Lorem ipsum dolor sit amet. Aut quisquam harum ut vero veniam aut quia voluptatum est quis deserunt qui quia dolore. Ab nostrum doloribus qui iste architecto vel placeat saepe eos atque quae. Et molestias quia non iste ratione 33 inventore soluta 33 placeat consequatur eos ipsum exercitationem hic officia obcaecati. Et voluptatem ipsa qui atque rerum non voluptatum incidunt 33 delectus itaque id earum voluptatum vel dicta provident sed voluptatem blanditiis.
+  <p align="left">Tenho 21 anos, sou formada como técnica em informática integrado ao ensino médio e atualmente curso Engenharia da Computação.
 
-  Qui nobis corporis est sunt eaque sed soluta debitis. Qui porro cumque qui autem dolores aut autem natus aut tempora dolores. Aut eveniet quos non omnis illo ab fugit aspernatur est rerum Quis nam voluptatibus odit sit perspiciatis accusamus.
+Sou uma experiente desenvolvedora de software, <i>com mais de 3 anos de experiência</i>, atuando em diversas frentes e linguagens durante esse periodo; tive a oportunidade de idealizar, planejar, arquitetar e acompanhar o desenvolvimento e manuteções de soluções de arquiteturas diversas.
 
-  Sed maiores rerum ab aperiam quidem nam similique dolorem et omnis fuga eum atque ipsam et beatae facilis. Est repellat maxime sed obcaecati tempore ex pariatur corporis!</p>
+Durante minha jornada, iniciei atuando como <i>programadora desktop</i>, trabalhando com a manutenção e desenvolvimento de funcionalidades para <b>PDV</b> e <b>ERP legado</b>, utilizando as linguagens de programação <i>C#, VB6 e VB.net</i> e <i>práticas ágeis de scrum</i>, onde adquiri entendimento sobre regras de negócios do varejo e regras fiscais.
+
+Devido uma serie de processos e realocação, venho atuando na área de desenvolvimento web como <i>desenvolvedora full stack</i>, trabalhando com soluções serveless em clean architecture sobre <b>emissão de documentos fiscais</b>.
+
+<samp>No momento estou aberta a novos desafios e oportunidades de colaboração, estando focada em enriquecer mais meus conhecimentos e github com projetos pessoais diferenciados e Game Development.</samp>
+</p>
 </div>
+
+# Experiência
+Experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Grupo Polgo" src="./assets/images/logo-grupo-polgo.png" style="border-radius:10px;"/>](https://polgo.com.br)
+
+**Desenvolvedora Full Stack** \
+[**Grupo Polgo**](https://polgo.com.br) • Integral (Híbrido) • (2023 - Atualmente)\
+Linguagens e Tecnologias: `NodeJS`, `TypeScript`, `VueJS`, `MongoDB`, `AWS`, `Docker`\
+Projetos em destaque: [Reneotec](https://www.gruponsc.com.br/), [Polgo](https://polgo.com.br/)
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Grupo Polgo" src="./assets/images/logo-grupo-polgo.png" style="border-radius:10px;"/>](https://polgo.com.br)
+
+**Desenvolvedora Desktop** \
+[**Grupo Polgo**](https://polgo.com.br) • Integral (Híbrido) • (2021 - Atualmente)\
+Linguagens e Tecnologias: `C#`, `VB6`, `VB.net`, `MariaDB`, `MySQL`\
+Projetos em destaque: [CM-PDV](https://gruponsc.com.br/cm-pdv.html), [Polgo](https://polgo.com.br/), [CM-RETAGUARDA](https://gruponsc.com.br/familia-cm.html), [CM-GOURMET](https://gruponsc.com.br/cm-gourmet.html).
+<br/>
+<br/>
 
 #
 <!-- Github info -->
-<div align="center" style="display:flex; gap:25px;">
+<div align="center" style="display:flex; gap:25px">
   <br/>
-  <img style="margin-left:50px;" src="https://github-readme-stats.vercel.app/api?username=lizis-bianca&theme=moltack&show_icons=true&hide=stars,issues&count_private=true&locale=pt-br&include_all_commits=true&hide_border=t&order=1&hide_title=false&hide_rank=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lizis-bianca&theme=moltack&show_icons=true&hide=stars,issues&count_private=true&locale=pt-br&include_all_commits=true&hide_border=t&order=1&hide_title=false&hide_rank=false" height="150"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizis-bianca&layout=compact&locale=pt-br&theme=gruvbox_light&hide_title=false&hide_border=false&order=2&card_width=320" height="150"/>
 </div>
