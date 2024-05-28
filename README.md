@@ -15,15 +15,15 @@
 
 Sou uma experiente desenvolvedora de software, <i>com mais de 3 anos de experiência</i>, atuando em diversas frentes e linguagens durante esse periodo; tive a oportunidade de idealizar, planejar, arquitetar e acompanhar o desenvolvimento e manuteções de soluções de arquiteturas diversas.
 
-Durante minha jornada, iniciei atuando como <i>programadora desktop</i>, trabalhando com a manutenção e desenvolvimento de funcionalidades para <b>PDV</b> e <b>ERP legado</b>, utilizando as linguagens de programação <i>C#, VB6 e VB.net</i> e <i>práticas ágeis de scrum</i>, onde adquiri entendimento sobre regras de negócios do varejo e regras fiscais.
+Durante minha jornada, iniciei atuando como <i style="color: #75F76A">programadora desktop</i>, trabalhando com a manutenção e desenvolvimento de funcionalidades para <b>PDV</b> e <b>ERP legado</b>, utilizando as linguagens de programação <i>C#, VB6 e VB.net</i> e <i>práticas ágeis de scrum</i>, onde adquiri entendimento sobre regras de negócios do varejo e regras fiscais.
 
-Devido uma serie de processos e realocação, venho atuando na área de desenvolvimento web como <i>desenvolvedora full stack</i>, trabalhando com soluções serveless em clean architecture sobre <b>emissão de documentos fiscais</b>.
+Devido uma serie de novos processos e realocação, venho atuando na área de desenvolvimento web como <i style="color: #75F76A">desenvolvedora full stack</i>, trabalhando com soluções serveless em clean architecture sobre <b>emissão de documentos fiscais</b>.
 
 <samp>No momento estou aberta a novos desafios e oportunidades de colaboração, estando focada em enriquecer mais meus conhecimentos e github com projetos pessoais diferenciados e Game Development.</samp>
 </p>
 </div>
 
-# Experiência
+## Experiência
 Experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Grupo Polgo" src="./assets/images/logo-grupo-polgo.png" style="border-radius:10px;"/>](https://polgo.com.br)
