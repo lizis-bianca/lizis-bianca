@@ -112,4 +112,4 @@ Projetos em destaque: [CM-PDV](https://gruponsc.com.br/cm-pdv.html), [Polgo](htt
 </div>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: radial-gradient(circle, rgba(230,205,190,1) 0%, rgba(116,241,132,1) 100%);]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: linear-gradient( 111.4deg,  rgba(238,113,113,1) 1%, rgba(246,215,148,1) 58% );]{x0000}$}
