@@ -10,7 +10,7 @@
 
 <!-- text -->
 <div id="text">
-  <img src="../../assets/images/Monstera_deliciosa.png" min-width="250px" max-width="250px" width="250px" align="right" style="border-radius:25%; margin-top: 25px; margin-bottom: 150px" alt="Costela-de-adao">
+  <img src="./assets/images/Monstera_deliciosa.png" min-width="250px" max-width="250px" width="250px" align="right" style="border-radius:25%; margin-top: 25px; margin-bottom: 150px" alt="Costela-de-adao">
   <p align="left">I'm 22 years old, I'm a high school computer technician and I'm currently studying Computer Engineering.
 
 I'm an experienced software developer, <i>with over 3 years' experience</i>, working on various fronts and languages during this period; I've had the opportunity to idealize, plan, architect and monitor the development and maintenance of solutions with various architectures.
