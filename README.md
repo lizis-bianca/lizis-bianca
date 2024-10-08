@@ -32,7 +32,7 @@ Experiência de trabalho mais recente:
 **Desenvolvedora Full Stack** \
 [**Grupo Polgo**](https://polgo.com.br) • Integral (Híbrido) • (2023 - Atualmente)\
 Linguagens e Tecnologias: `NodeJS`, `TypeScript`, `VueJS`, `MongoDB`, `AWS`, `Docker`\
-Projetos em destaque: [Reneotec](https://www.gruponsc.com.br/), [Polgo](https://polgo.com.br/)
+Projetos em destaque: [Reneotec](https://www.reneotec.com.br), [Polgo](https://polgo.com.br/)
 <br/>
 <br/>
 
