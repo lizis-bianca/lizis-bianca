@@ -12,7 +12,7 @@
 <!-- text -->
 <div id="text">
   <img src="./assets/images/Monstera_deliciosa.png" min-width="250px" max-width="250px" width="250px" align="right" style="border-radius:25%; margin-top: 25px; margin-bottom: 150px" alt="Costela-de-adao">
-  <p align="left">Tenho 23 anos, sou formada como técnica em informática integrado ao ensino médio, graduada em m Tecnologia da Informação com ênfase em IoT e atualmente curso Engenharia da Computação.
+  <p align="left">Tenho 23 anos, sou formada como técnica em informática integrado ao ensino médio, graduada em Tecnologia da Informação com ênfase em IoT e atualmente curso Engenharia da Computação.
 
 Sou uma experiente desenvolvedora de software, <i>com mais de 4 anos de experiência</i>, atuando em diversas frentes e linguagens durante esse periodo; tive a oportunidade de idealizar, planejar, arquitetar e acompanhar o desenvolvimento e manutenções de soluções de arquiteturas diversas.
 
