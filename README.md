@@ -12,13 +12,13 @@
 <!-- text -->
 <div id="text">
   <img src="./assets/images/Monstera_deliciosa.png" min-width="250px" max-width="250px" width="250px" align="right" style="border-radius:25%; margin-top: 25px; margin-bottom: 150px" alt="Costela-de-adao">
-  <p align="left">Tenho 22 anos, sou formada como técnica em informática integrado ao ensino médio e atualmente curso Engenharia da Computação.
+  <p align="left">Tenho 23 anos, sou formada como técnica em informática integrado ao ensino médio, graduada em m Tecnologia da Informação com ênfase em IoT e atualmente curso Engenharia da Computação.
 
-Sou uma experiente desenvolvedora de software, <i>com mais de 3 anos de experiência</i>, atuando em diversas frentes e linguagens durante esse periodo; tive a oportunidade de idealizar, planejar, arquitetar e acompanhar o desenvolvimento e manutenções de soluções de arquiteturas diversas.
+Sou uma experiente desenvolvedora de software, <i>com mais de 4 anos de experiência</i>, atuando em diversas frentes e linguagens durante esse periodo; tive a oportunidade de idealizar, planejar, arquitetar e acompanhar o desenvolvimento e manutenções de soluções de arquiteturas diversas.
 
 Durante minha jornada, iniciei atuando como <i>programadora desktop</i>, trabalhando com a manutenção e desenvolvimento de funcionalidades para <b>PDV</b> e <b>ERP legado</b>, utilizando as linguagens de programação <i>C#, VB6 e VB.net</i> e <i>práticas ágeis de scrum</i>, onde adquiri entendimento sobre regras de negócios do varejo e regras fiscais.
 
-Devido uma serie de novos processos e realocação, venho atuando na área de desenvolvimento web como <i>desenvolvedora full stack</i>, trabalhando com soluções serveless em clean architecture sobre <b>emissão de documentos fiscais</b>.
+Devido uma serie de novos processos e realocação, atuei na área de desenvolvimento web como <i>desenvolvedora full stack</i>, trabalhando com soluções serveless em clean architecture sobre <b>emissão de documentos fiscais</b>.
 
 <samp>No momento estou aberta a novos desafios e oportunidades de colaboração, estando focada em enriquecer mais meus conhecimentos e github com projetos pessoais diferenciados e Game Development.</samp>
 </p>
@@ -30,7 +30,7 @@ Experiência de trabalho mais recente:
 [<img align="left" height="94px" width="94px" alt="Grupo Polgo" src="./assets/images/logo-grupo-polgo.png" style="border-radius:10px;"/>](https://polgo.com.br)
 
 **Desenvolvedora Full Stack** \
-[**Grupo Polgo**](https://polgo.com.br) • Integral (Híbrido) • (2023 - Atualmente)\
+[**Grupo Polgo**](https://polgo.com.br) • Integral (Híbrido) • (2023 - 2025)\
 Linguagens e Tecnologias: `NodeJS`, `TypeScript`, `VueJS`, `MongoDB`, `AWS`, `Docker`\
 Projetos em destaque: [Reneotec](https://www.reneotec.com.br), [Polgo](https://polgo.com.br/)
 <br/>
@@ -39,7 +39,7 @@ Projetos em destaque: [Reneotec](https://www.reneotec.com.br), [Polgo](https://p
 [<img align="left" height="94px" width="94px" alt="Grupo Polgo" src="./assets/images/logo-grupo-polgo.png" style="border-radius:10px;"/>](https://polgo.com.br)
 
 **Desenvolvedora Desktop** \
-[**Grupo Polgo**](https://polgo.com.br) • Integral (Híbrido) • (2021 - Atualmente)\
+[**Grupo Polgo**](https://polgo.com.br) • Integral (Híbrido) • (2021 - 2025)\
 Linguagens e Tecnologias: `C#`, `VB6`, `VB.net`, `MariaDB`, `MySQL`\
 Projetos em destaque: [CM-PDV](https://gruponsc.com.br/cm-pdv.html), [Polgo](https://polgo.com.br/), [CM-RETAGUARDA](https://gruponsc.com.br/familia-cm.html), [CM-GOURMET](https://gruponsc.com.br/cm-gourmet.html).
 <br/>
